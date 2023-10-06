@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "bcryptjs": "^2.4.3",
+    "eslint-config-next": "^13.4.4",
+    "mongoose": "^6.12.0",
+    "next": "^13.5.5-canary.2",
+    "next-auth": "^4.22.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sharp": "^0.32.6",
+    "swr": "^2.1.5"
   },
   "devDependencies": {
-    "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint": "8.41.0"
   }
 }
